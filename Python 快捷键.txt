@@ -1,0 +1,23 @@
+# ctrl+z 返回键            ctrl+/ 单行注释             ctrl+d 复制一行                 ctrl+x 剪贴                 ctrl+s 保存
+’”       ‘“多行注释         print(“Hello World")
+score=98            c='男'         name='我叫小明'        flag=True   flag=False       print("姓名:%s分数:%d%（name，score））   print("姓名：",name,"分数:",score)
+name=input(“请输入姓名”） print(name)   
+面向对象  对象：有特征（属性） 和 功能（函数，方法）组成，实实在在存在
+类：是相同对象特征和功能的集合，是抽象的 ，模板
+属性定义：1.在类中直接定义（变量）
+                2.在__init__方法中定义，初始化
+函数定义:
+             格式：def 方法名（self，[参数1，参数2...];
+             返回结果：1.不返回 2.通过return进行返回
+对象的创建:对象名=类名()
+属性的调用：对象名.属性名
+方法的调用：对象名.方法名（）
+#continue 跳过本次循环（继续执行）
+#break      跳出当前所在循环（终止）
+
+
+
+
+
+
+matplotlib 绘图
